@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/graphql-voyager-fastify-plugin.svg)](https://www.npmjs.com/package/graphql-voyager-fastify-plugin)
 
 This is a **WIP**!
+Also this is also my first ever package. Hope it works.
 
 This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.
 
@@ -39,4 +40,4 @@ app.listen(3000);
 
 ## References
 
-Heavily based on [Altair](https://github.com/altair-graphql/altair) Fastify Plugin and this [repo by bdatdo0601](https://github.com/bdatdo0601/graphql-api-starter/blob/master/src/plugins/voyager/index.js)
+Heavily based on [Altair](https://github.com/altair-graphql/altair) Fastify Plugin and this [repo by bdatdo0601](https://github.com/bdatdo0601/graphql-api-starter/blob/master/src/plugins/voyager/index.js). And this [guide](https://cameronnokes.com/blog/the-30-second-guide-to-publishing-a-typescript-package-to-npm/).

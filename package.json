@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "tsc",
     "example": "ts-node src/example/mercurius.ts"
   },
   "devDependencies": {
@@ -17,7 +18,8 @@
   "name": "graphql-voyager-fastify-plugin",
   "description": "This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.",
   "version": "0.1.0",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RicardoValero95/graphql-voyager-fastify-plugin.git"
