@@ -2,8 +2,9 @@
 
 [![npm](https://img.shields.io/npm/v/graphql-voyager-fastify-plugin.svg)](https://www.npmjs.com/package/graphql-voyager-fastify-plugin)
 
-This is a **WIP**!
-Also this is also my first ever package. Hope it works.
+**DON'T USE THIS PACKAGE** it was an experiment!
+
+Use this one instead [@graphql-ez/plugin-voyager](https://www.npmjs.com/package/@graphql-ez/plugin-voyager)
 
 This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.
 
