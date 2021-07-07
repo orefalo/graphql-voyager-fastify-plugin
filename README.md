@@ -40,4 +40,6 @@ app.listen(3000);
 
 ## References
 
-Heavily based on [Altair](https://github.com/altair-graphql/altair) Fastify Plugin and this [repo by bdatdo0601](https://github.com/bdatdo0601/graphql-api-starter/blob/master/src/plugins/voyager/index.js). And this [guide](https://cameronnokes.com/blog/the-30-second-guide-to-publishing-a-typescript-package-to-npm/).
+Heavily based on [Altair](https://github.com/altair-graphql/altair) Fastify Plugin and this [repo by bdatdo0601](https://github.com/bdatdo0601/graphql-api-starter/blob/master/src/plugins/voyager/index.js). 
+
+To publish to npm I read this [guide](https://cameronnokes.com/blog/the-30-second-guide-to-publishing-a-typescript-package-to-npm/) and this other [guide](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c).
