@@ -6,7 +6,7 @@
 
 Use this one instead [@graphql-ez/plugin-voyager](https://www.npmjs.com/package/@graphql-ez/plugin-voyager)
 
-This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.
+This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of [**GraphQL Voyager**](https://github.com/APIs-guru/graphql-voyager), with support for **TypeScript**, and tested for **Fastify v3**.
 
 ## Install
 
