@@ -15,9 +15,9 @@
   "dependencies": {
     "fastify-plugin": "^3.0.0"
   },
-  "name": "graphql-voyager-fastify-plugin",
-  "description": "This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for hosting an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.",
-  "version": "0.1.2",
+  "name": "graphql-voyager-fastify-plugin-2",
+  "description": "This is a [**Fastify Plugin**](https://www.fastify.io/docs/master/Plugins/) for enabling an instance of **GraphQL Voyager**, with support for **TypeScript**, and tested for **Fastify v3**.",
+  "version": "0.1.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
